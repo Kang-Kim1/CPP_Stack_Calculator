@@ -3,6 +3,7 @@
 // ~~~~~~~~~
 // author : Hung Q. Ngo
 // - implementation of the Lexer interface
+
 // ============================================================================
 
 #include <iostream>
