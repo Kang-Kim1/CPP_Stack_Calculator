@@ -1,2 +1,3 @@
 # CPP_Stack_Calculator
-WELCOME
+- C++ Based Stack Calculator with using postfix notation 
+(This was done for the data structure course assignment of UB)
