@@ -1,7 +1,7 @@
 // ============================================================================
 // Calculator.h
 // ~~~~~~~
-// author    : Tamal T. Biswas
+// author   : Tamal T. Biswas
 // - a simple calculator class
 // - The class can evaluate any infix expression.
 // ============================================================================
