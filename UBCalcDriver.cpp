@@ -1,4 +1,7 @@
-// UBCalcDriver.cpp : a simple driver for the the Lexer class
+/*
+	Author : Kangmin Kim 
+*/
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>

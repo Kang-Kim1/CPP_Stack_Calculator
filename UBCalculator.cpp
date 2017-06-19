@@ -1,3 +1,7 @@
+/*
+        Author : Kangmin Kim
+*/
+
 #include "UBCalculator.h"
 #include "error_handling.h"
 #include "Lexer.h"
